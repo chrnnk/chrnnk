@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<iframe src="https://discord.com/widget?id=1161113701127028936&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <!--
 **chrnnk/chrnnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
