@@ -1,8 +1,5 @@
 ### Hi, I’m Nick.
 ![](https://komarev.com/ghpvc/?username=chrxnn)
-- 🧔‍♂️ You can find most of my work here on GitHub or on my website [chrnnk.tv](https://www.chrnnk.tv/).
-- 📫 How to reach me - [nick@chrnnk.tv](mailto:nick@chrnnk.tv).
-
 ### 🔭 I’m currently working on:
 - [Docker](https://github.com/chrxnn/docker) - Useful Docker commands.
 - [Docker/Docker-compose](https://github.com/chrxnn/docker/tree/main/docker-compose) - All the docker composes I've used.
