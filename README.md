@@ -1,5 +1,5 @@
 ### Hi, I’m Nick.
-![](https://komarev.com/ghpvc/?username=chrxnn)
+
 ### 🔭 I’m currently working on:
 - [Docker](https://github.com/chrxnn/docker) - Useful Docker commands.
 - [Docker/Docker-compose](https://github.com/chrxnn/docker/tree/main/docker-compose) - All the docker composes I've used.
@@ -7,10 +7,8 @@
 - [Linux/Proxmox](https://github.com/chrxnn/linux/tree/main/proxmox)
 - [Linux/Steamdeck](https://github.com/chrxnn/linux/tree/main/steamdeck) - Misc Steam Deck code.
 - [Hardware](https://github.com/chrxnn/hardware) - Network device commands, config examples, and scripts.
-- [Plex-Meta-Manager-Configs](https://github.com/housefisharr/PMM-Configs) - My PMM collections.
 - [Windows-desktop/Customization/PowerShell](https://github.com/chrxnn/windows-desktop/tree/main/Customization/PowerShell) - Script to set up my PowerShell environment and install the following: Windows Terminal, PowerShell 7, oh-my-posh, CaskaydiaCove Nerd Font Mono, winfetch, PSReadLine, and Terminal-Icons.
 - [Windows-desktop/Customization/Tweaks](https://github.com/chrxnn/windows-desktop/tree/main/Customization/Tweaks) - Windows tweaks.
-- [Windows-desktop/Folder Redirection](https://github.com/chrxnn/windows-desktop/tree/main/Folder%20Redirection) - Scripts to create symlinks to point many system folders to %Documents%/FolderName.
 - [Windows-desktop/Scripts/App-*](https://github.com/chrxnn/windows-desktop/tree/main/Scripts) - Scripts to add/remove programs with winget.
 - [Windows-desktop/Scripts/DNS-Toggle.bat](https://github.com/chrxnn/windows-desktop/blob/main/Scripts/DNS-Toggle.bat) - Toggle DNS from DHCP to 1.1.1.1, pause, then toggle back.
 - [Windows Server/Azure](https://github.com/chrxnn/windows-server) scripts.
