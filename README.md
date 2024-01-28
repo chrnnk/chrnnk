@@ -15,15 +15,15 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left"> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/chrnnk/chrnnk/main/icons/vscode.png" width="40" height="40"/> </a>
-<a href="https://github.com/PowerShell/PowerShell" target="_blank"> <img src="https://raw.githubusercontent.com/chrnnk/chrnnk/main/icons/powershell.png" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/windows-server" target="_blank"> <img src="https://raw.githubusercontent.com/chrnnk/chrnnk/main/icons/windowsserver.png" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://raw.githubusercontent.com/chrnnk/chrnnk/main/icons/azure.png" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/chrnnk/chrnnk/main/icons/tux.png" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/chrnnk/chrnnk/main/icons/docker.png" width="40" height="40"/> </a>
-<a href="https://www.vmware.com/" target="_blank"> <img src="https://raw.githubusercontent.com/chrnnk/chrnnk/main/icons/vmware.png" width="40" height="40"/> </a>
-<a href="https://www.proxmox.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/chrnnk/chrnnk/main/icons/proxmox.png" width="40" height="40"/> </a>
-<a href="https://unraid.net/" target="_blank"> <img src="https://raw.githubusercontent.com/chrnnk/chrnnk/main/icons/unraid.png" width="40" height="40"/> </a>
-<a href="https://yaml.org/" target="_blank"> <img src="https://raw.githubusercontent.com/chrnnk/chrnnk/main/icons/yaml.png" width="40" height="40"/> </a>
-<a href="https://app.plex.tv/desktop/#!/" target="_blank"> <img src="https://raw.githubusercontent.com/chrnnk/chrnnk/main/icons/plex.png" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/housefisharr/app-icons/main/png/vscode.png" width="40" height="40"/> </a>
+<a href="https://github.com/PowerShell/PowerShell" target="_blank"> <img src="https://raw.githubusercontent.com/housefisharr/app-icons/main/png/powershell.png" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/windows-server" target="_blank"> <img src="https://raw.githubusercontent.com/housefisharr/app-icons/main/png/windowsserver.png" width="40" height="40"/> </a> 
+<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://raw.githubusercontent.com/housefisharr/app-icons/main/png/azure.png" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/housefisharr/app-icons/main/png/tux.png" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/housefisharr/app-icons/main/png/docker.png" width="40" height="40"/> </a>
+<a href="https://www.vmware.com/" target="_blank"> <img src="https://raw.githubusercontent.com/housefisharr/app-icons/main/png/vmware.png" width="40" height="40"/> </a>
+<a href="https://www.proxmox.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/housefisharr/app-icons/main/png/proxmox.png" width="40" height="40"/> </a>
+<a href="https://unraid.net/" target="_blank"> <img src="https://raw.githubusercontent.com/housefisharr/app-icons/main/png/unraid.png" width="40" height="40"/> </a>
+<a href="https://yaml.org/" target="_blank"> <img src="https://raw.githubusercontent.com/housefisharr/app-icons/main/png/yaml.png" width="40" height="40"/> </a>
+<a href="https://app.plex.tv/desktop/#!/" target="_blank"> <img src="https://raw.githubusercontent.com/housefisharr/app-icons/main/png/plex.png" width="40" height="40"/> </a>
 </p>  
